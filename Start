@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color:MediumSeaGreen;color:white;text-align:center;font-family:Georgia;font-size:400%">Sign Up</h1>
+
+<p style="font-family:Georgia;font-size:150%">Student:</p>
+<p style="font-family:Georgia;font-size:150%">Grade:</p>
+<p style="font-family:Georgia;font-size:150%">Student's Parent(s):      </p>
+<p style="font-family:Georgia;font-size:150%">Car:(description)</p>
+<p style="font-family:Georgia;font-size:150%">How Many Passengers Your Car Allows:</p>
+<p style="font-family:Georgia;font-size:150%">After School Activities Your Child Does:</p>
+</body>
+</html>
